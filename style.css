@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 30px;
+    font-weight: 900;
+    color: brown;
+}
+.option{
+    font-size: 25px;
+    color:blueviolet;
+    font-weight: 900;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 100px;
+    margin-left: 30px;
+}
+
